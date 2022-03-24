@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go v1.42.53
 	github.com/containerd/cgroups v1.0.3 // indirect
 	github.com/docker/cli v20.10.12+incompatible
-	github.com/docker/docker v20.10.12+incompatible
+	github.com/docker/docker v20.10.14+incompatible
 	github.com/gookit/color v1.5.0 // indirect
 	github.com/hashicorp/hcl/v2 v2.11.1
 	github.com/kr/pretty v0.3.0 // indirect

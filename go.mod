@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go v1.42.53
 	github.com/containerd/cgroups v1.0.3 // indirect
 	github.com/docker/cli v20.10.12+incompatible
-	github.com/docker/docker v20.10.12+incompatible
+	github.com/docker/docker v20.10.19+incompatible
 	github.com/gookit/color v1.5.0 // indirect
 	github.com/hashicorp/hcl/v2 v2.11.1
 	github.com/kr/pretty v0.3.0 // indirect
@@ -31,8 +31,6 @@ require (
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a // indirect
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
-	google.golang.org/genproto v0.0.0-20220204002441-d6cc3cc0770e // indirect
-	google.golang.org/grpc v1.44.0 // indirect
 	gopkg.in/ini.v1 v1.66.4
 )
 

@@ -1,4 +1,4 @@
-module github.com/hazelops/ize
+module github.com/psihachina/ize
 
 go 1.16
 
